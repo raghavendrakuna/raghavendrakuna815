@@ -22,7 +22,7 @@ public class ProjectNew {
 		
 		Assert.assertEquals(title,"sign in to Github .  Github");
 		
-		System.out.println("Continue to test........");
+		System.out.println("Continue to test............");
 	}
 }
 
